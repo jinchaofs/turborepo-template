@@ -1,0 +1,6 @@
+{
+  "extends": ["@repo/biome-config"],
+  "files": {
+    "includes": ["app/**", "src/**", "public/**", "next.config.js", "package.json"]
+  }
+}
